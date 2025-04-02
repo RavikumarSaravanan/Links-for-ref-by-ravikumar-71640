@@ -13,3 +13,5 @@ SVG SHAPE DIVIDED : https://shapedividers.com/
 PRNL
 
 MY OWN PRF WEB :  https://ravikumarsaravanan.github.io/portfolio-website/
+
+FSD MIND MAP : https://xmind.ai/share/zB5PgOBB
