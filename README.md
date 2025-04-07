@@ -15,3 +15,6 @@ PRNL
 MY OWN PRF WEB :  https://ravikumarsaravanan.github.io/portfolio-website/
 
 FSD MIND MAP : https://xmind.ai/share/zB5PgOBB
+
+2  --> https://xmind.ai/share/A2DppYkY
+pdf : [Uploading FULLSTACK DEVELOPMENT mindmap.pdf…]()
